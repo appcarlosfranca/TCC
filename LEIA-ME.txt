@@ -1,6 +1,5 @@
-PUBLICAÇÃO GITHUB PAGES (RAIZ)
-Envie index.html e a pasta arquivos/ para a raiz do repositório.
-NÃO envie apenas o index.html.
-Os 31 documentos são necessários para os botões funcionarem.
-
-Para envio em partes, extraia TODOS os arquivos ZIP de partes na MESMA pasta. Depois faça upload do conteúdo reunido para a raiz do repositório.
+Substitua no repositório publicado:
+- index.html na raiz
+- arquivos/tcc-versao-final.pdf
+- arquivos/tcc-versao-editavel.doc
+- assets/logo-carlos-franca-neon.png
