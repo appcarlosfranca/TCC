@@ -1,21 +1,6 @@
-BIBLIOTECA CIENTÍFICA — TCC CARLOS FRANÇA — VERSÃO 3
+PUBLICAÇÃO GITHUB PAGES (RAIZ)
+Envie index.html e a pasta arquivos/ para a raiz do repositório.
+NÃO envie apenas o index.html.
+Os 31 documentos são necessários para os botões funcionarem.
 
-OPÇÃO 1 — MAIS SIMPLES (NENHUMA PASTA NECESSÁRIA)
-Abra biblioteca-autonoma.html no Chrome, Edge ou Firefox.
-Este arquivo incorpora os 31 documentos originais: visualização e download
-funcionam mesmo offline, sem instalar nada ou extrair arquivos adicionais.
-Para disponibilizar via GitHub Pages, envie biblioteca-autonoma.html
-renomeado como index.html (atenção: é um arquivo grande, cerca de 72 MB).
-
-OPÇÃO 2 — RECOMENDADA PARA GITHUB PAGES (SITE MAIS LEVE)
-1. Extraia o ZIP inteiro, preservando as pastas.
-2. No GitHub, envie index.html e a pasta arquivos com seus 31 documentos.
-3. No repositório: Settings > Pages > Deploy from a branch > main > / (root).
-4. A página estará em https://SEU-USUARIO.github.io/SEU-REPOSITORIO/
-5. NÃO envie somente o index.html na opção 2.
-
-ATENÇÃO AOS DIREITOS AUTORAIS
-A publicação em um repositório público pode disponibilizar obras de terceiros
-à internet inteira. Verifique as permissões dos respectivos titulares.
-
-CONFERÊNCIA: 28 REFERÊNCIAS + TCC PDF + TCC DOC + SÍNTESE PDF = 31 ARQUIVOS.
+Para envio em partes, extraia TODOS os arquivos ZIP de partes na MESMA pasta. Depois faça upload do conteúdo reunido para a raiz do repositório.
